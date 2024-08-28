@@ -8,7 +8,7 @@ Passionate and experienced frontend developer with a strong technical skill set 
 
 ### Programming Languages
 
-![Uploading 317755_badge_html_html5_achievement_award_icon (2).png…]()
+![317755_badge_html_html5_achievement_award_icon (2).png…]()
 
 ![317756_badge_css_css3_achievement_award_icon](https://github.com/user-attachments/assets/231563e3-64b7-4bbc-9d88-c16a085b1eb2)
 
