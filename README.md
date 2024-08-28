@@ -4,9 +4,11 @@
 
 📌 Abuja, F.C.T
 
+Passionate and experienced frontend developer with a strong technical skill set aiming to leverage expertise in developing innovative web applications
+
 ### Programming Languages
 
-![4202020_css3_html_logo_social_social media_icon](https://github.com/user-attachments/assets/65ab2a3f-ccf9-40a4-baff-b5cacc027109)
+![Uploading 317755_badge_html_html5_achievement_award_icon (2).png…]()
 
 ![317756_badge_css_css3_achievement_award_icon](https://github.com/user-attachments/assets/231563e3-64b7-4bbc-9d88-c16a085b1eb2)
 
