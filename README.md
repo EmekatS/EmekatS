@@ -19,6 +19,7 @@ Passionate and experienced frontend developer with a strong technical skill set 
 - [Recipe2.com](https://emekats.github.io/recipe2.0/)
 - [Recipe.com](https://emekats.github.io/recipe/)
 - [Mario Club](https://github.com/EmekatS/mario-club)
+- [Zenith Bank Application Form](https://emekats.github.io/Zenith/)
 
 ### Contact Me
 
